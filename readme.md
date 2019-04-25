@@ -12,3 +12,7 @@ There are two ways to start using this repository:
   ```bash
   git clone git@github.com:zeit/next-learn-demo.git
   ```
+## Complete Project Hosted URL
+```bash
+https://8-deploying-4z40vbu4v.now.sh/
+```
